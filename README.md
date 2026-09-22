@@ -1,5 +1,5 @@
 # Figuritas 2.0
-
+![Figuritas 2.0](screenshots/inicio.png)
 Aplicación web local para organizar álbumes de figuritas, registrar copias, controlar faltantes y preparar listas de intercambio.
 
 ## Características
@@ -18,7 +18,7 @@ Aplicación web local para organizar álbumes de figuritas, registrar copias, co
 
 ## Capturas
 
-Puedes añadir capturas del proyecto dentro de la carpeta `screenshots/` y mostrarlas aquí más adelante.
+![Figuritas 2.0 en tablet](screenshots/captura_1.png)
 
 ## Uso
 
@@ -30,9 +30,7 @@ No requiere instalación, servidor, base de datos ni API key.
 
 Los datos se almacenan localmente en el navegador mediante `localStorage`.
 
-## Publicar con GitHub Pages
-
-El proyecto es estático y puede publicarse directamente con GitHub Pages. En la configuración del repositorio selecciona la rama principal y la carpeta raíz como origen de Pages.
+![Figuritas 2.0](screenshots/captura_2.png)
 
 ## Estructura
 
